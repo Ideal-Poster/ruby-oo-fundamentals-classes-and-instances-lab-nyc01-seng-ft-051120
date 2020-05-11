@@ -1,5 +1,5 @@
 class Dog
-  p "hello"
+  p "hello. I mean bark!"
 end
 
 fido = new Dog
