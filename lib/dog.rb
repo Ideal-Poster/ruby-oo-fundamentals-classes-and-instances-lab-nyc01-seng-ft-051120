@@ -1,4 +1,4 @@
 class Dog
 end
 
-lassie = new Dog
+fido = new Dog
